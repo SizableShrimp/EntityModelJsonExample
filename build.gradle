@@ -144,7 +144,6 @@ repositories {
     //     dir 'libs'
     // }
 
-    mavenLocal()
     // Entity Model JSON maven
     maven {
         url = 'https://sizableshrimp.me/maven'
