@@ -157,7 +157,7 @@ dependencies {
     minecraft "net.minecraftforge:forge:${minecraft_version}-${forge_version}"
 
     // Add Entity Model JSON as a dependency
-    implementation fg.deobf("me.sizableshrimp:entitymodeljson:${minecraft_version}-1.0.1")
+    implementation fg.deobf("me.sizableshrimp:entitymodeljson:${minecraft_version}-1.0.2")
 
     // Real mod deobf dependency examples - these get remapped to your current mappings
     // compileOnly fg.deobf("mezz.jei:jei-${mc_version}:${jei_version}:api") // Adds JEI API as a compile dependency
